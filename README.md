@@ -1,1 +1,1 @@
-# odin-recipes
+This gonna be my first website created in corp. with the odin-project. I gonna use all the knowledge i gained until this point in the curriculum. Which contains basic html, basic git and using the shell. I'am grateful that i got this far :)
